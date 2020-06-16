@@ -14,3 +14,6 @@ I finally got RStudio working, as it seemed my Anti-Virus was blocking it withou
 I will say this on record, so that only you and I know Professor. But Voyant Tools is probably the coolest thing I've ever seen in regards to preparing for work. I'm baffled many other courses I've had to use never this use, especially in regards to the Corpus regarding 18 and 19th century England. Which is a fascination of mine. It's absolute breathaking. 
 https://voyant-tools.org/?corpus=7b82209560f281a106d0f2623a0f1a38&query=people&query=scotland&query=kingdom&query=united&mode=document&chartType=stacked&view=Trends
 This was interesting to me in the fact despite England still being named United Kingdom, United has been mentioned 558 times, whilst Kingdom only 373 times. I would make a hypothesis at this time that England was more focused upon enveloping ideas of unity amongst the Kingdoms of Wales, Ireland, Scotland, and England together, by consistently mentioning united or unity in itself. Endland itself was only mention 108 times, whilst Scotland and Glasgow, were mmentioned almost 400 times. 
+AntConc is actually marvelous as well. These are two things I'm definitely going to use in my later studies for University. In comparison to coding on Anaconda and Python, I believe I am able to strive with these resources. 
+
+
